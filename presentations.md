@@ -7,4 +7,4 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also browse my <a href="http://scholar.google.es/citations?user=VCBBx24AAAAJ" target="_blank">Google Scholar profile</a>.
+Access my <a href="https://scholar.google.co.in/citations?user=SwrZkasAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Ashutosh_Satapathy3" target="_blank">ResearchGate</a> profiles.
