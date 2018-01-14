@@ -1,9 +1,9 @@
 ---
 layout: publications
-permalink: /publications/
-title: My Publications
-tags: [publications]
-modified: 8-7-2014
+permalink: /presentations/
+title: My Presentations
+tags: [presentations]
+modified: 13-01-2018
 comments: false
 ---
 
