@@ -4,7 +4,7 @@ title: About Me;
 description: "Ashutosh Satapathy Web"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: Banner.png
+  feature: Banner.jpg
 ---
 
 I'm a Ph.D. scholar and working as a Teaching and Reseach Assistant (TRA) in [Vellore Institute of Technology, India](http://chennai.vit.ac.in/).
