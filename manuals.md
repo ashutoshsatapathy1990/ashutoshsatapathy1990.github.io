@@ -42,10 +42,7 @@ Webpage to showcase the benchmark results of DAVIS and browse results. Again: Ja
 
 ### Computer Vision and Image Processing
 
-* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
+* [**OpenCV3 for Ubuntu 16.04: CPU and GPU Installation**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
 Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
-
-* [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
-Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
 
 
