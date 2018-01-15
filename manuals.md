@@ -12,7 +12,7 @@ It all started when my father taught me some notions of Visual Basic, and with t
 
 ### Server Management
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+* [**Windows Server 2016 Administration for Beginners**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
  
 ### Parallel Programming
