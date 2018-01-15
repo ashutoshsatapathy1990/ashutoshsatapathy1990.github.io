@@ -13,7 +13,7 @@ Manuals on this website help beginners to install and configure various tools in
 ### Server Management
 
 * [**Windows Server 2016 Administration for Beginners**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+Configuration and management of windows server 2016 in a domain. It contains basic installation and setting up services such as Active Directory, DHCP, DNS, WDS, CA, GPOs and many others.
  
 ### Parallel Programming
 
