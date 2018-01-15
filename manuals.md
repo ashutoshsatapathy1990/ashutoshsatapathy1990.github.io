@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
+Manuals in this website helps beginners to install and configure various tools in the field of Image Processing, Computer Vision, Deep Learning, Parallel Programming, VoIP and Network Communication. These manuals are for learning Purposes only. 
 
 ### Server Management
 
