@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /manuals/
-title: Some Code I've Written
+title: Learn to Manuals
 tags: [manuals]
-modified: 3-10-2014
+modified: 15-01-2018
 comments: false
 ---
 
