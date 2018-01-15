@@ -13,7 +13,7 @@ Manuals on this website help beginners to install and configure various tools in
 ### Server Management
 
 * [**Windows Server 2016 Administration for Beginners**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-Configuration and management of windows server 2016 in a domain. It contains basic installation and setting up services such as Active Directory, DHCP, DNS, WDS, CA, GPOs and many others.
+Configuration and management of windows server 2016 in a domain environment. It contains basic installation and setting up services such as Active Directory, DHCP, DNS, WDS, CA, GPOs and many others.
  
 ### Parallel Programming
 
