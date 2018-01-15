@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /code/
+permalink: /manuals/
 title: Some Code I've Written
-tags: [code]
+tags: [manuals]
 modified: 3-10-2014
 comments: false
 ---
