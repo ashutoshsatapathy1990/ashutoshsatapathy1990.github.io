@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /manuals/
-title: Learn to Manuals
+title: Learn from Manuals
 tags: [manuals]
 modified: 15-01-2018
 comments: false
