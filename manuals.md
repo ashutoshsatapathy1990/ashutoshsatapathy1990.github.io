@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-Manuals on this website help beginners to install and configure various tools in the fields of Image Processing, Computer Vision, Deep Learning, Parallel Programming, VoIP, Network Communication and Security. These manuals are for learning purposes only. 
+Manuals on this website help beginners to install and configure various tools in the fields of Image Processing, Pattern Recognition, Computer Vision, Deep Learning, Parallel Programming, VoIP, Network Communication and Security. These manuals are for learning purposes only. 
 
 ### Server Management
 
