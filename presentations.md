@@ -7,4 +7,4 @@ modified: 13-01-2018
 comments: false
 ---
 
-Access my <a href="https://scholar.google.co.in/citations?user=SwrZkasAAAAJ&hl=en" target="_blank">SlideShare</a> analytics report.
+Access my <a href="https://www.slideshare.net/AshutoshSatapathy4" target="_blank">SlideShare</a> public profile.
