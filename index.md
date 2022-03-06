@@ -4,7 +4,7 @@ title: About Me;
 description: "Ashutosh Satapathy Web"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-[//]:  feature: Banner.jpg
+#  feature: Banner.jpg
 ---
 
 I'm working as an assistant professor at Department of Computer Science, [Velagapudi Ramakrishna Siddhartha Engineering College (Autonomous), Vijayawada](http://vrsiddhartha.ac.in/cse/faculty/), and pursuing Doctor of Philosophy in [Vellore Institute of Technology, India](http://chennai.vit.ac.in/).
