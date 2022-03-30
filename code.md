@@ -7,7 +7,7 @@ modified: 30-03-2022
 comments: false
 ---
 
-As an image processing, pattern recognition, and deep learning enthusiast, I have published some of the codes in the fields of image processing and deep learning, which will help others in their teaching and learning processes. Most of the codes are written in C, C++, Python, or Matlab.
+As an image processing, pattern recognition, and deep learning enthusiast, I have published some of the codes in the fields of image processing and deep learning, which will help others in their teaching and learning processes. I always enjoy writing code in C, C++, Python, or MATLAB.
 
 ### Deep Learning
 
