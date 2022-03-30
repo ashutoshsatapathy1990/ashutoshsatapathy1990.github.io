@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-The manuals on this website help beginners to learn various programming languages and tools in the fields of image processing, pattern recognition, computer vision, deep learning, parallel programming, VoIP, network communication, and security. These manuals are for learning purposes only. 
+The manuals on this website help beginners to learn various programming languages, and tools in the fields of image processing, pattern recognition, computer vision, deep learning, parallel programming, VoIP, network communication, and security. These manuals are for learning purposes only. 
 
 ### Server Management
 
