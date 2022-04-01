@@ -17,7 +17,7 @@ Caffe codes for various CNNs are now available for use on NVIDIA DIGITS. Caffe d
 ### Image Processing
 
 * [**Vectorized Image High-boosting OpenCL Kernels**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
-Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
+The image vectorized OpenCL kernels of the Ideal, Gaussian, Butterworth, and Laplacian of Gaussian high-boost filters are written in C to reduce the filtration time on CPUs, GPUs, and FPGAs.
 
 * [**Image Quality Check**](http://jponttuset.github.io/deep-learning-scraping/)<br>
 Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
