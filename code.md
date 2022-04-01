@@ -20,7 +20,7 @@ Caffe codes for various CNNs are now available for use on NVIDIA DIGITS. Caffe d
 The image vectorized OpenCL kernels of the Ideal, Gaussian, Butterworth, and Laplacian of Gaussian high-boost filters are written in C to reduce the filtration time on CPUs, GPUs, and FPGAs.
 
 * [**Image Quality Check**](http://jponttuset.github.io/deep-learning-scraping/)<br>
-Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
+MATLAB code to compute Entropy, Peak Signal to Noise Ratio, Mean Absolute Error, Mean Squared Error, Correlation, Root Mean Square Error, Structural Similarity Index, Standard Deviation, and Percentage Fit Error on an RGB image to evaluate its quality.
 
 
 
