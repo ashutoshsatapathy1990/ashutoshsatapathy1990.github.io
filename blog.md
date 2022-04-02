@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: <!--/blog/-->
+# permalink: /blog/
 title: All Posts
 tagline: A List of Posts
 tags: [blog]
