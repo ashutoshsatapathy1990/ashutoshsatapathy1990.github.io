@@ -39,7 +39,7 @@ links:
   - title: Blog
     url: /blog/
   - title: Galary
-    url: /galary
+    url: /galary/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
