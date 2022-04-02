@@ -38,8 +38,8 @@ links:
     url: /code/
   - title: Blog
     url: /blog/
-  - title: Galary
-    url: /galary/
+  - title: Gallery
+    url: /gallery/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
