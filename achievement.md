@@ -7,6 +7,8 @@ modified: 02-04-2022
 comments: false
 ---
 
+A list of achievements in education, employment, or other significant events in my life that may contribute to my professional development.
+
 ### My Photos
 
 Images related to my academic and research endeavors over the years.
