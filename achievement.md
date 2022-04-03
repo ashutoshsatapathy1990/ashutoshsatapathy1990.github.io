@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /gallery/
+permalink: /achievement/
 title: My Photos
-tags: [gallery]
+tags: [achievement]
 modified: 02-04-2022
 comments: false
 ---
