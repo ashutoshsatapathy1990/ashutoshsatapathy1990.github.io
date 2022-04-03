@@ -15,11 +15,10 @@ Images related to my academic and research endeavors over the years.
 
 <details>
   <summary>The title of the image group</summary>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
 </details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-
 
 ### Certification
 
