@@ -13,7 +13,8 @@ A list of achievements in education, employment, or other significant events in 
 
 Images related to my academic and research endeavors over the years.
 
-:camera: <details>
+:camera: 
+<details>
   * <summary> The title of the image group</summary>
   <img src="image-url" name="image-name">
   <img src="image-url" name="image-name">
