@@ -13,7 +13,7 @@ Images related to my academic and research endeavors over the years.
 
 ### Certification
 
-Successfully Completed **D-Link Certified Trainer** certification on DCT-Switching (February 2016).
+**D-Link Certified Trainer** certification on DCT-Switching (February 2016).
 
 
 
