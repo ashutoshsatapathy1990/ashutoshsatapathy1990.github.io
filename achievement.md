@@ -14,7 +14,7 @@ A list of achievements in education, employment, or other significant events in 
 Images related to my academic and research endeavors over the years.
 
 * [Research internship at ICL, ITRI Taiwan in 2017.]()
-* [Presentation at the 6th National Summit on 4Es-2017 at ICSR Auditorium, IIT Madras.]()
+* [Ph.D. work presentation at the 6th National Summit on 4Es-2017 at IIT Madras' ICSR Auditorium.]()
 
 ### Certification
 
