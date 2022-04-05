@@ -13,8 +13,8 @@ A list of achievements in education, employment, or other significant events in 
 
 Images related to my academic and research endeavors over the years.
 
-* [Research internship at ICL, ITRI Taiwan in 2017.]()
-* [Ph.D. work presentation at the 6th National Summit on 4Es-2017 at IIT Madras' ICSR Auditorium.]()
+* [Research internship at ICL, ITRI Taiwan in 2017.](https://www.dropbox.com/s/ww8aolzlhbj0qb9/ITRI%20internship.JPG?dl=0)
+* [Ph.D. work presentation at the 6th National Summit on 4Es-2017 at IIT Madras' ICSR Auditorium.](https://www.dropbox.com/s/u4l64msptgouknm/4E%20submmit%202017.jpg?dl=0)
 
 ### Certification
 
