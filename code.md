@@ -11,15 +11,15 @@ As an image processing, pattern recognition, and deep learning enthusiast, I hav
 
 ### Deep Learning
 
-* [**CNNs with NVIDIA Digits**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+* [**CNNs with NVIDIA Digits**](https://github.com/ashutoshsatapathy1990/NVIDIA-DIGITS-caffe-)<br>
 Caffe codes for various CNNs are now available for use on NVIDIA DIGITS. Caffe docker containers must be pulled from the NVIDIA NGC cloud and launched on your NVIDIA driver-installed device prior to running these codes.   
  
 ### Image Processing
 
-* [**Vectorized Image High-boosting OpenCL Kernels**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
+* [**Vectorized Image High-boosting OpenCL Kernels**](https://github.com/ashutoshsatapathy1990/Vectorized-Image-Highboosting_GPU)<br>
 The image vectorized OpenCL kernels of the Ideal, Gaussian, Butterworth, and Laplacian of Gaussian high-boost filters are written in C to reduce the filtration time on CPUs, GPUs, and FPGAs.
 
-* [**Image Quality Check**](http://jponttuset.github.io/deep-learning-scraping/)<br>
+* [**Image Quality Check**](https://github.com/ashutoshsatapathy1990/Image-Performance-Metrics)<br>
 MATLAB code to compute Entropy, Peak Signal to Noise Ratio, Mean Absolute Error, Mean Squared Error, Correlation, Root Mean Square Error, Structural Similarity Index, Standard Deviation, and Percentage Fit Error on an RGB image to evaluate its quality.
 
 
