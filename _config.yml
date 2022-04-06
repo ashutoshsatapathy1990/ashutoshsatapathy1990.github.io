@@ -12,11 +12,10 @@ owner:
   bio                       :  Working as an Assistant Professor in Dept. of CSE, VRSEC-Vijayawada. My Areas of interest include Image Processing, Pattern Recognition, and Deep Learning.
   email                     :  ashutosh@vrsiddhartha.ac.in          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: #jponttuset
   linkedin                  :  ashutosh-satapathy-24903747
   google_scholar            :  SwrZkasAAAAJ
   github                    :  ashutoshsatapathy1990
-  whatsapp                  :  7401547964
+  twitter                   :  satapathy1990
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
