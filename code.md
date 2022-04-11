@@ -25,7 +25,7 @@ MATLAB code to compute Entropy, Peak Signal to Noise Ratio, Mean Absolute Error,
 ### Other Codes
 
 * [**Syllabus Template - LaTeX**](https://github.com/ashutoshsatapathy1990/syllabus-template-LaTeX)<br>
-Create a beautiful syllabus using the LaTeX code. It is suitable for framing syllabuses for Indian colleges and universities and also contains a CO-PO-PSO table with BTL and POI mapping.
+Create a beautiful syllabus using the LaTeX code. It is suitable for framing syllabuses for Indian colleges and universities and also contains a CO-PO-PSO matrix with BTL and POI mapping.
 
 
 
