@@ -33,11 +33,11 @@ links:
     url: /presentations/
   - title: Manuals
     url: /manuals/
-  - title: Code
+  - title: Codes
     url: /code/
   - title: Blog
     url: #
-  - title: Achievement
+  - title: Achievements
     url: /achievement/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
