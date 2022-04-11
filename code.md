@@ -22,5 +22,11 @@ The image vectorized OpenCL kernels of the Ideal, Gaussian, Butterworth, and Lap
 * [**Image Quality Check**](https://github.com/ashutoshsatapathy1990/Image-Performance-Metrics)<br>
 MATLAB code to compute Entropy, Peak Signal to Noise Ratio, Mean Absolute Error, Mean Squared Error, Correlation, Root Mean Square Error, Structural Similarity Index, Standard Deviation, and Percentage Fit Error on an RGB image to evaluate its quality.
 
+### Other Codes
+
+* [**Syllabus Template - LaTeX**](https://github.com/ashutoshsatapathy1990/syllabus-template-LaTeX)
+Create beautiful syllabus from the LaTeX code. 
+
+
 
 
