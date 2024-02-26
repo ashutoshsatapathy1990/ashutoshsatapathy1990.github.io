@@ -1,7 +1,7 @@
 ---
 layout: projects
 permalink: /projects/
-title: Funded Projects
+title: Projects & Fellowships
 tags: [projects]
 modified: 15-11-2023
 comments: false
