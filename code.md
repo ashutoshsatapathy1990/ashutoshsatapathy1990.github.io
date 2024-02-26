@@ -11,7 +11,7 @@ As an image processing, pattern recognition, and deep learning enthusiast, I hav
 
 ### Deep Learning
 
-* [**CNNs with NVIDIA Digits**](https://github.com/ashutoshsatapathy1990/NVIDIA-DIGITS-caffe-)<br>
+* [**CNNs on NVIDIA Digits**](https://github.com/ashutoshsatapathy1990/NVIDIA-DIGITS-caffe-)<br>
 Caffe codes for various CNNs are now available for use on NVIDIA DIGITS. Caffe docker containers must be pulled from the NVIDIA NGC cloud and launched on your NVIDIA driver-installed device prior to running these codes.   
  
 ### Image Processing
