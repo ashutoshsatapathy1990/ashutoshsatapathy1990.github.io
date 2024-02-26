@@ -12,7 +12,7 @@ The manuals on this website help beginners to learn various programming language
 
 ### Programming
 
-* [**Problem Solving Using C**](https://www.dropbox.com/s/3itg872qt5bsn6b/Problem%20solving%20using%20C.pdf?dl=0)<br>
+* [**Problem Solving Using C (20ES1152), VRSEC, Vijayawada**](https://www.dropbox.com/s/3itg872qt5bsn6b/Problem%20solving%20using%20C.pdf?dl=0)<br>
 Basic C programming concepts such as literals, data types, and variable declaration, branching, looping, arrays, functions, string, pointer, file, structure, enum, and command-line arguments execution.
  
 
