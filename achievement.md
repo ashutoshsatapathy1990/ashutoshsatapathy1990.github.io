@@ -11,7 +11,7 @@ A list of achievements in education, employment, or other significant events in 
 
 ### My Photos
 
-Images related to my academic and research endeavors over the years.
+Pics related to my academic and research endeavors over the years.
 * [Chanakya UG Fellowships, under my supervision and supported by the IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF) in 2024.]()
 * [Best paper awards in IEEE ICIITEE 2024, organized by BNM Institute of Technology.]()
 * [Chanakya UG Fellowship, under my supervision and supported by the iHub Anubhuti-IIITD Foundation in 2023.]()
