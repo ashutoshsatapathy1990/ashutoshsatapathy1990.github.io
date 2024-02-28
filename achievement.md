@@ -19,7 +19,7 @@ Images related to my academic and research endeavors over the years.
 
 ### Certification
 
-**D-Link Certified Trainer** certification on [DCT-Switching](https://www.dropbox.com/s/vbcv0tev49mf8vr/Dlink%20Certified%20Trainer.pdf?dl=0) (February 2016).
+**D-Link Certified Trainer** certification on [DCT-Switching](https://photos.app.goo.gl/AkH8QTnRHNpdnUYs8) (February 2016).
 
 
 
