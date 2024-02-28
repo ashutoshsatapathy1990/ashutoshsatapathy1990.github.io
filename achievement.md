@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /achievement/
-title: My Achievement
+title: My Achievements
 tags: [achievement]
 modified: 02-04-2022
 comments: false
