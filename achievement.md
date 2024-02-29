@@ -24,9 +24,9 @@ Pics related to my academic and research endeavors over the years.
 
 ### Events Organized
 
-* A guest lecture on **Research Article Writing: Why and How** for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
+* Guest lecture on **Research Article Writing: Why and How** for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
 * One-day workshop on **Research Article Writing** for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
-* A two-day workshop on **Scientific Literature Review and Research Article Writing** for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
+* Two-day workshop on **Scientific Literature Review and Research Article Writing** for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
 
 
 
