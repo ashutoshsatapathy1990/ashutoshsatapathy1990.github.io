@@ -24,7 +24,7 @@ Pics related to my academic and research endeavors over the years.
 
 ### Events Organized
 
-*[A guest lecture on "Research Article Writing: Why and How" for final year CSE students (UG) in the Dept. of CSE, VRSEC, on October 1, 2022.]
+* [A guest lecture on "Research Article Writing: Why and How" for final year CSE students (UG) in the Dept. of CSE, VRSEC, on October 1, 2022.]
 
 
 
