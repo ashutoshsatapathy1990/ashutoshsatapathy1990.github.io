@@ -7,4 +7,4 @@ tags: [blog]
 comments: false
 ---
 
-Access my <a href="https://ashutosh1990.wpcomstaging.com/" target="_blank">Blog</a>.
+Access my <a href="https://ashutosh1990.wpcomstaging.com/" target="_blank">Deep Computational Horizons</a> Blog.
