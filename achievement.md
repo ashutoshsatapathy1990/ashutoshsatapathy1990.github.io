@@ -26,11 +26,11 @@ Pics related to my academic and research endeavors over the years.
 
 ### Events Organized
 
-* Two-day workshop on **Research Methodology** for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
-* Expert Talk on **Awareness on IPR** for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
-* Two-day workshop on **Scientific Literature Review and Research Article Writing** for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
-* One-day workshop on **Research Article Writing** for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
-* Guest lecture on **Research Article Writing: Why and How** for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
+* Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
+* Expert Talk on **Awareness on IPR** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
+* Two-day workshop on **Scientific Literature Review and Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
+* One-day workshop on **Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
+* Guest lecture on **Research Article Writing: Why and How** under _IEEE Professional Society_ for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
 
 
 
