@@ -21,7 +21,7 @@ Pics related to my academic and research endeavors over the years.
 
 ### Certification
 
-* **D-Link Certified Trainer** certification on [DCT-Switching](https://photos.app.goo.gl/z3ZzoufRXzSFD49SA) (February 2016).
+* **D-Link Certified Trainer** certification on [DCT-Switching](https://drive.google.com/file/d/1kofOeyY_okMMhY4AtzxdOCDz96XQZ-Hs/view?usp=sharing) (February 2016).
 * **Course Trainer** on **Neuromorphic Engineering** by K-Combinator, Manteca-95336, USA. (September 2024). 
 
 ### Events Organized
