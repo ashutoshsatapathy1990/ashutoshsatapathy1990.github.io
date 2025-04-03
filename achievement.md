@@ -26,7 +26,7 @@ Pics related to my academic and research endeavors over the years.
 
 ### Events Organized
 
-* One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _Institution's Innovation Council_ for faculties by SAHE-Deemed to be University, on May 3, 2025 (Proposed).
+* One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SAHE-Deemed to be University, on May 3, 2025 (Proposed).
 * Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
 * Expert Talk on **Awareness on IPR** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
 * Two-day workshop on **Scientific Literature Review and Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
