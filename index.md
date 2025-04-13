@@ -3,8 +3,8 @@ layout: home2
 title: About Me;
 description: "Ashutosh Satapathy Web"
 tags: [Jekyll, theme, responsive, blog, template]
-image: 
-feature: "/images/Banner.jpg"
+image:
+  feature: banner.jpg
 ---
 
 I'm working as an assistant professor at Department of Computer Science and Engineering, [SAHE Deemed to be University (Formerly Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada)](https://www.vrsiddhartha.ac.in/cse/wp-content/uploads/2020/06/39_Ashutosh-Satapathy.pdf). I have completed my Doctor of Philosophy from [Vellore Institute of Technology, India](http://chennai.vit.ac.in/) and my Master of Technology (M. Tech) in Information Security and Computer Forensics from [SRM University, India](http://www.srmuniv.ac.in/).
