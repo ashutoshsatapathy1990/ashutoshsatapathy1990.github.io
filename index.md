@@ -3,7 +3,7 @@ layout: home2
 title: About Me;
 description: "Ashutosh Satapathy Web"
 tags: [Jekyll, theme, responsive, blog, template]
-image: banner.jpg
+image: /images/banner.jpg
 feature: /images/banner.jpg
 ---
 
