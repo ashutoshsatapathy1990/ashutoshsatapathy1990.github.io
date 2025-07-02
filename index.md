@@ -13,6 +13,6 @@ I'm working as an assistant professor at Department of Computer Science and Engi
 &emsp;I've completed my Doctor of Philosophy from [Vellore Institute of Technology, India](http://chennai.vit.ac.in/) and my Master of Technology (M. Tech) in Information Security and Computer Forensics from [SRM University, India](http://www.srmuniv.ac.in/). During My Ph. D., I've completed a research internship program at [Information and Communications Research Laboratories,](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617766560112635060) [ITRI-Taiwan](https://www.itri.org.tw/). Previously, I worked as a lecturer at [Odisha University of Technology and Research (formerly College of Engineering and Technology, Bhubaneswar)](https://outr.ac.in/).
 <br />
 <br />
-&emsp;I've published 23 research articles as international journal articles, book chapters, and conference proceedings indexed in SCIE (WoS)/Scopus. I'm actively involved in two ongoing projects, and mentor 10 Chanakya fellowship recipients through the NMICPS initiative of the Government of India.
+&emsp;I've published 23 research articles as international journal articles, book chapters, and conference proceedings indexed in SCIE (WoS)/Scopus. I'm currently engaged in two ongoing projects and provides mentorship to 10 Chanakya fellowship recipients under the NMICPS initiative of the Government of India.
 <br />
 ### [Academic Assistance ... Book a Session >>](https://topmate.io/ashutosh_satapathy)
