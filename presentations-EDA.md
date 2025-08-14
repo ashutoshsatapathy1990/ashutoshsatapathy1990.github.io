@@ -1,9 +1,9 @@
 ---
-layout: presentations
-permalink: /presentations/
+layout: presentations-EDA
+permalink: /presentations-EDA/
 title: My Presentations
 tags: [presentations]
-modified: 13-01-2018
+modified: 14-08-2023
 comments: false
 ---
 
