@@ -1,0 +1,288 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+
+<h3 style="margin-bottom:0px;padding-top:10px;">Research</h3>
+<ul class="biblist">
+
+<!-- Item: ashutosh2017pc -->
+<li ><p>
+A. Satapathy and C. Soni
+<br><b>Secure Multi-Party Computation (SMC)</b><br>
+<i>Introduction to Secure Multi-Party Computation (SMC), its goals and actions to be performed in SMCs. At last, different approaches to carry out SMCs.</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2017pc')">[BibTeX]</a>
+<a href="https://www.slideshare.net/secret/maLOW7R627sbW9">[PPT]</a>										    
+</p>
+<div id="bib_ashutosh2017pc" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2017pc,
+author = {A. Satapathy and C. Soni},
+title= {Secure Multi-Party Computation (SMC)},
+note= {Information and Communication Laboratory, ITRI-Taiwan},
+month = {June},
+year = {2017}
+}
+</pre>
+</div>
+</li>
+
+    <!-- Item: ashutosh2017pb -->
+    <li ><p>
+    A. Satapathy and C. Soni
+    <br><b>Oblivious RAM (ORAM)</b><br>
+<i>Clear ideas on Oblivious RAM, Cuckoo Hashing and their requirements for hiding access patterns. 
+	Brief discussion on different types of ORAMs with examples and their run time complexity analysis.</i>
+<br />
+    <a href="javascript:toggleBibtex('ashutosh2017pb')">[BibTeX]</a>
+    <a href="https://www.slideshare.net/secret/IThyXGUIic7yJP">[PPT]</a> 
+</p>
+<div id="bib_ashutosh2017pb" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2017pb,
+author = {A. Satapathy and C. Soni},
+title= {Oblivious RAM (ORAM)},
+note= {Information and Communication Laboratory, ITRI-Taiwan},
+month = {July},
+year = {2017}
+}
+</pre>
+</div>
+</li>
+
+
+<!-- Item: ashutosh2017pa -->
+<li ><p>
+A. Satapathy and C.Soni
+<br><b>ObliVM</b><br>
+<i>Overview of ObliVM framework and its programming language redesigns a few algorithms like MapReduce, Circuit ORAM. Have a glance on ObliVM compilation processes and its usages for 2 party secure computations.</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2017pa')">[BibTeX]</a>
+<a href="https://www.slideshare.net/secret/45jzvl0QH206A" target="_blank">[PPT]</a>  
+</p>
+<div id="bib_ashutosh2017pa" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2017pa,
+author = {A. Satapathy and C. Soni},
+title= {ObliVM},
+note= {Information and Communication Laboratory, ITRI-Taiwan},
+month = {July},
+year = {2017}
+}
+</pre>
+</div>
+</li>  
+      </ul  >
+	    
+<h3 style="margin-bottom:0px;padding-top:10px;">Teaching</h3>
+<ul class="biblist">
+	
+<!-- Item: ashutosh2024asdc -->
+<li ><p>
+A. Satapathy
+<br><b>Data Structures</b><br>
+<i>Algorithm Specification. Data Abstraction. Time and Space Complexity. Data Structure Types. Searching and Sorting Algorithms</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2024asdc')">[BibTeX]</a>
+<a href="../presentations-DS/">[PPTs]</a>										    
+</p>
+<div id="bib_ashutosh2024asdc" class="bibtex noshow">
+<pre>
+@misc{satapathy2024ds,
+  author       = {Ashutosh Satapathy},
+  title        = {Data Structures Lecture Slides},
+  year         = {2024},
+  month        = aug,
+  institution  = {Department of CSE, Velagapudi Ramakrishna Siddhartha Engineering College},
+  address      = {Vijayawada, India}
+}
+</pre>
+</div>
+</li>
+<!-- Item: ashutosh2022asdc -->
+<li ><p>
+A. Satapathy
+<br><b>High Dimensional Data Analysis: Multidimensional Data</b><br>
+<i>Multivariate and High Dimensional Problems. Data Visualization. Multivariate Random Vectors and Data</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2022asdc')">[BibTeX]</a>
+<a href="https://www.slideshare.net/AshutoshSatapathy4/multidimensionaldatapdf">[PPT]</a>										    
+</p>
+<div id="bib_ashutosh2022asdc" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2022asdc,
+author = {A. Satapathy},
+title= {High Dimensional Data Analysis: Multidimensional Data},
+note= {Department of CSE, VRSEC-Vijayawada},
+month = {October},
+year = {2022}
+}
+</pre>
+</div>
+</li>
+
+<!-- Item: ashutosh2024asdd -->
+<li ><p>
+A. Satapathy
+<br><b>Business Intelligence and Information Exploitation</b><br>
+<i>Business Intelligence. Information Asset. Program Success. Actionable Knowledge</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2024asdd')">[BibTeX]</a>
+<a href="https://www.slideshare.net/slideshow/business-intelligence-and-information-exploitation-pdf/270622849">[PPT]</a>										    
+</p>
+<div id="bib_ashutosh2024asdd" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2024asdd,
+author = {A. Satapathy},
+title= {Business Intelligence and Information Exploitation},
+note= {Department of CSE, VRSEC-Vijayawada},
+month = {July},
+year = {2024}
+}
+</pre>
+</div>
+</li>
+
+<!-- Item: ashutosh2024asde -->
+<li ><p>
+A. Satapathy
+<br><b>The Value of Business Intelligence</b><br>
+<i>Information Asset. Data Valuation. Actionable Knowledge - ROI. BI Applications. Intelligence Dashboard</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2024asde')">[BibTeX]</a>
+<a href="https://www.slideshare.net/slideshow/the-value-of-business-intelligence-096b/271049228">[PPT]</a>										    
+</p>
+<div id="bib_ashutosh2024asde" class="bibtex noshow">
+<pre>
+@unpublished{ashutosh2024asde,
+author = {A. Satapathy},
+title= {The Value of Business Intelligence},
+note= {Department of CSE, VRSEC-Vijayawada},
+month = {August},
+year = {2024}
+}
+</pre>
+</div>
+</li>
+
+<!-- Item: ashutosh2024asdf -->
+<li ><p>
+A. Satapathy
+<br><b>Exploratory Data Analysis (EDA)</b><br>
+<i>EDA Fundamentals. Visual Aids for EDA. EDA with Personal Email. Data Transformation. Descriptive Statistics. Grouping Datasets. Correlation. Time Series Analysis</i>
+<br />
+<a href="javascript:toggleBibtex('ashutosh2024asdf')">[BibTeX]</a>
+<a href="../presentations-EDA/">[PPTs]</a>										    
+</p>
+<div id="bib_ashutosh2024asdf" class="bibtex noshow">
+<pre>
+@misc{satapathy2025eda,
+  author       = {Ashutosh Satapathy},
+  title        = {Exploratory Data Analysis (EDA) Lecture Slides},
+  year         = {2025},
+  month        = aug,
+  institution  = {Department of CSE, Siddhartha Academy of Higher Education (Deemed to be University)},
+  address      = {Vijayawada, India}
+}
+</pre>
+</div>
+</li>
+	
+      </ul  >
+	    
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
