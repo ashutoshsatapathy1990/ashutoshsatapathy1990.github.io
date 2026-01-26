@@ -28,7 +28,7 @@ Related to my academic and research endeavors over the years.
 ### Events Organized
 
 * Three-day workshop on **Innovate, Launch, Scale: The Complete Startup Journey** under _IIC_ for faculties and students by SAHE-Deemed to be University (Forthcoming).
-* Two day **Research Conclave 2026** as Central Coordinator by SAHE-Deemed to be University on January 22 & 23, 2026.
+* Two day **Research Conclave 2026** as Central Coordinator by SAHE-Deemed to be University on January 23 & 24, 2026.
 * One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SAHE-Deemed to be University, on July 14, 2025.
 * Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
 * Expert Talk on **Awareness on IPR** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
