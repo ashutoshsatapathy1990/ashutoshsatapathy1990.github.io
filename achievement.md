@@ -9,9 +9,10 @@ comments: false
 
 A list of achievements in education, employment, or other significant events in my life that may contribute to my professional development. All of these are accomplished successfully through my effort and skill.
 
-### My Photos
+### My Achievement
 
-Pics related to my academic and research endeavors over the years.
+Related to my academic and research endeavors over the years.
+* [Best paper awards in Research Conclave 2026, organized by SAHE (Deemed to be University).]()
 * [Chanakya UG Fellowships, under my supervision and supported by the IIT(BHU) I-DAPT Hub Foundation in 2024.]()
 * [Chanakya UG Fellowships, under my supervision and supported by the IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF) in 2024.]()
 * [Best paper awards in IEEE ICIITEE 2024, organized by BNM Institute of Technology.]()
@@ -27,6 +28,7 @@ Pics related to my academic and research endeavors over the years.
 ### Events Organized
 
 * Three-day workshop on **Innovate, Launch, Scale: The Complete Startup Journey** under _IIC_ for faculties and students by SAHE-Deemed to be University (Forthcoming).
+* Two day **Research Conclave 2026** as Central Coordinator by SAHE-Deemed to be University on January 22 & 23, 2026.
 * One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SAHE-Deemed to be University, on July 14, 2025.
 * Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
 * Expert Talk on **Awareness on IPR** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
