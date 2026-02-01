@@ -23,7 +23,11 @@ Related to my academic and research endeavors over the years.
 ### Certification
 
 * **D-Link Certified Trainer** certification on [DCT-Switching](https://drive.google.com/file/d/1kofOeyY_okMMhY4AtzxdOCDz96XQZ-Hs/view?usp=sharing) (February 2016).
-* **Course Trainer** on [Neuromorphic Engineering](https://drive.google.com/file/d/1U0WVH32jqzzaXBG-1rzY0I-Kb_f3DaWX/view?usp=sharing) by K-Combinator, Manteca-95336, USA. (September 2024). 
+* **Course Trainer** on [Neuromorphic Engineering](https://drive.google.com/file/d/1U0WVH32jqzzaXBG-1rzY0I-Kb_f3DaWX/view?usp=sharing) by K-Combinator, Manteca-95336, USA. (September 2024).
+
+### Ph.D. Students
+
+Varalakshmi T. (24EDF12027)
 
 ### Events Organized
 
@@ -35,10 +39,6 @@ Related to my academic and research endeavors over the years.
 * Two-day workshop on **Scientific Literature Review and Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
 * One-day workshop on **Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
 * Guest lecture on **Research Article Writing: Why and How** under _IEEE Professional Society_ for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
-
-### Ph.D. Students
-
-Varalakshmi T. (24EDF12027)
 
 
 
