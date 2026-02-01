@@ -9,7 +9,7 @@ comments: false
 
 A list of achievements in education, employment, or other significant events in my life that may contribute to my professional development. All of these are accomplished successfully through my effort and skill.
 
-### My Achievement
+### Achievement
 
 Related to my academic and research endeavors over the years.
 * [Best paper awards in Research Conclave 2026, organized by SAHE (Deemed to be University).]()
