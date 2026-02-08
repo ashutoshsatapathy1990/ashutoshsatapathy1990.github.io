@@ -40,7 +40,8 @@ Related to my academic and research endeavors over the years.
 * One-day workshop on **Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
 * Guest lecture on **Research Article Writing: Why and How** under _IEEE Professional Society_ for final yr. CSE students (UG) by the Dept. of CSE, VRSEC, on October 1, 2022.
 
-
+### PDPs Attended
+[List of Seminars, FDPs, Workshops and Short Term Courses attended]()
 
 
 
