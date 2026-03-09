@@ -32,7 +32,7 @@ Related to my academic and research endeavors over the years.
 ### Events Organized
 
 * Three-day workshop on **Innovate, Launch, Scale: The Complete Startup Journey** under _IIC_ for faculties and students by SU-Deemed to be University (Forthcoming).
-* One-Hour awareness session on **Intellectual Property Rights (IPR) & Patent, Designs filing** under National Intellectual Property Awareness Mission (NIPAM) for UG students by Dept. of CSE, SU-Deemed to be University in association with RGNIIPM, Nagpur, Ministry of Commerce & Industry, GoI, on March 25, 2026.
+* One-Hour awareness session on **Intellectual Property Rights (IPR) & Patent, Designs filing** under _National Intellectual Property Awareness Mission (NIPAM)_ for UG students by Dept. of CSE, SU-Deemed to be University in association with RGNIIPM, Nagpur, Ministry of Commerce & Industry, GoI, on March 25, 2026.
 * One-day workshop on **One-Day Workshop on Research Translation & IP Commercialization** under _IEEE Professional Society_ for UG students by Dept. of CSE, SU-Deemed to be University, on March 25, 2026.
 * Two day **Research Conclave 2026** as Central Coordinator by SAHE-Deemed to be University on January 23 & 24, 2026.
 * One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SU-Deemed to be University, on July 14, 2025.
