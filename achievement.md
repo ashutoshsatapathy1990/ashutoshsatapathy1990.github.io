@@ -31,10 +31,12 @@ Related to my academic and research endeavors over the years.
 
 ### Events Organized
 
-* Three-day workshop on **Innovate, Launch, Scale: The Complete Startup Journey** under _IIC_ for faculties and students by SAHE-Deemed to be University (Forthcoming).
+* Three-day workshop on **Innovate, Launch, Scale: The Complete Startup Journey** under _IIC_ for faculties and students by SU-Deemed to be University (Forthcoming).
+* One-Hour awareness session on **Intellectual Property Rights (IPR) & Patent, Designs filing** Under National Intellectual Property Awareness Mission (NIPAM) for UG students by Dept. of CSE, SU-Deemed to be University in association with RGNIIPM, Nagpur, Ministry of Commerce & Industry, GoI, on March 25, 2026.
+* One-day workshop on **One-Day Workshop on Research Translation & IP Commercialization** Under _IEEE Professional Society_ for UG students by Dept. of CSE, SU-Deemed to be University), on March 25, 2026.
 * Two day **Research Conclave 2026** as Central Coordinator by SAHE-Deemed to be University on January 23 & 24, 2026.
-* One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SAHE-Deemed to be University, on July 14, 2025.
-* Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SAHE-Deemed to be University, on March 17 & 18, 2025.
+* One-day seminar on **The Role of Disruptive Technologies in Sustainable Development** under _IIC_ for faculties by SU-Deemed to be University, on July 14, 2025.
+* Two-day workshop on **Research Methodology** under _IEEE Professional Society_ for Ph.D. Scholars by the Dept. of CSE, SU-Deemed to be University, on March 17 & 18, 2025.
 * Expert Talk on **Awareness on IPR** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on April 1, 2024.
 * Two-day workshop on **Scientific Literature Review and Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE and AI&DS students (UG) by the Dept. of CSE, VRSEC, on February 12 & 14, 2024.
 * One-day workshop on **Research Article Writing** under _IEEE Professional Society_ for 3rd yr. CSE students (UG) by the Dept. of CSE, VRSEC, on March 25, 2023.
