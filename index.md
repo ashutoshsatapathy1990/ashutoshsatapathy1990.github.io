@@ -4,7 +4,7 @@ title: About Me;
 description: "Ashutosh Satapathy Web"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: banner2.png
+  feature: banner2.jpg
 ---
 
 I'm working as an Assistant Professor (S.G.) at Department of Computer Science and Engineering, [Siddhartha Academy of Higher Education - Deemed to be University (Formerly Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada)](https://www.vrsiddhartha.ac.in/cse/wp-content/uploads/2020/06/39_Ashutosh-Satapathy.pdf). In addition to my academic responsibilities, I also serve as the R&D and NIRF Professor In-charge for the department. 
