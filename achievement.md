@@ -12,6 +12,7 @@ A list of achievements in education, employment, or other significant events in 
 ### Achievement
 
 Related to my academic and research endeavors over the years.
+* [Coordinated Intellectual Property Awareness Program under NIPAM Organized by IP Office, India](https://drive.google.com/file/d/1U1hJjz8DQE5CiGn_axHlZgVRriJOddgS/view?usp=sharing)
 * [Best paper awards in Research Conclave 2026, organized by Siddhartha Academy of Higher Education (Deemed to be University).]()
 * [Chanakya UG Fellowships, under my supervision and supported by the IIT(BHU) I-DAPT Hub Foundation in 2024.]()
 * [Chanakya UG Fellowships, under my supervision and supported by the IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF) in 2024.]()
