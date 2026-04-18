@@ -16,3 +16,8 @@ I'm working as an Assistant Professor (S.G.) at Department of Computer Science a
 &emsp;I've published 34 research articles as international journal articles, book chapters, and conference proceedings indexed in SCIE (WoS)/Scopus. I'm currently engaged in two ongoing projects and provides mentorship to 10 Chanakya fellowship recipients under the NM-ICPS initiative of the Government of India. Also engaged in question paper setting for autonomous colleges and universities from Andhra Pradesh, Odisha, and Telangana.
 <br />
 ### [Academic Assistance ... Book a Session >>](https://topmate.io/ashutosh_satapathy)
+<br />
+<br />
+आ नो भद्राः क्रतवो यन्तु विश्वतः। विद्या ददाति विनयम्॥
+<br />
+<br />
