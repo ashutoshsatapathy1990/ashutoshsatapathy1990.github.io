@@ -18,6 +18,7 @@ I'm working as an Assistant Professor (S.G.) at Department of Computer Science a
 ### [Academic Assistance ... Book a Session >>](https://topmate.io/ashutosh_satapathy)
 <br />
 <br />
+<p style="background-color: #fff3cd; padding: 10px;">
 आ नो भद्राः क्रतवो यन्तु विश्वतः। विद्या ददाति विनयम्॥
-<br />
+</p>
 <br />
