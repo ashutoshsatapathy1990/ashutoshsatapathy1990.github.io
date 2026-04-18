@@ -7,4 +7,4 @@ modified: 14-08-2025
 comments: false
 ---
 
-Access my <a href="https://www.slideshare.net/AshutoshSatapathy4" target="_blank">SlideShare</a> public profile.
+Access my <a href="https://www.slideshare.net/AshutoshSatapathy4" target="_blank">SlideShare</a> public profile. Open PPT via right-click.
